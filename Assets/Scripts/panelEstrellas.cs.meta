@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1010f62943e40fd4c972a4c447b57159
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CeroEstrellas: {fileID: 398545238, guid: 77a83aef85dbee74ba043a0edc5f94ba, type: 3}
+  - UnaEstrella: {fileID: 2050048640, guid: 4bbe1d0aca7f787428dd420d6015ba84, type: 3}
+  - DosEstrellas: {fileID: -859526540, guid: c65cd3200536ea144a260d8a0129982d, type: 3}
+  - TresEstrellas: {fileID: -690469772, guid: 7a082dd54ebdbb04eb03631d02ff3f53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

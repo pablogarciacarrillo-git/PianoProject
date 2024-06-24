@@ -1,0 +1,2173 @@
+fileFormatVersion: 2
+guid: 67a3f69bb1543004fa9b9032723464b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SimbolosMusica_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 277
+        width: 494
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43b324c872da64389a11998335e8d6
+      internalID: -1508592244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_1
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1102
+        width: 54
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1094a19a7756a4397baf26596af6d7
+      internalID: -596876232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1102
+        width: 56
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189823c85463a8f4781dd60e5785ca24
+      internalID: 637465494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_3
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1102
+        width: 84
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f49bd01bd30f244b97498fa283141a
+      internalID: 1027464302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_4
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1102
+        width: 83
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d3a62425e57f4ba2b867f2e59016c
+      internalID: -1763202975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_5
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1102
+        width: 102
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3f70859b237a543a87ecc22bdadf93
+      internalID: 1970807924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_6
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1102
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8139da6cd330e439c968033e9a80c0
+      internalID: -459638895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_7
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1108
+        width: 94
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d40c8c19b7372149abca3d83b305547
+      internalID: -1004646653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_8
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1108
+        width: 117
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1698193975d03d4188e2cf7ac5d5270
+      internalID: 1731533440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_9
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1108
+        width: 115
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3a265023e06cb43bd5d81b0f87bd40
+      internalID: -1795287173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_10
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1102
+        width: 327
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c8fd75851eaa740b724ff850bb49aa
+      internalID: -830800083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_11
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1106
+        width: 334
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4aeea145dad74f9d3d2d2fc603a44
+      internalID: 500528775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_12
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 1113
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b8858335c5214ab5c38646229b883
+      internalID: 1315596203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_13
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 851
+        width: 54
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa82fb3963a104885e16c6c8827eb6
+      internalID: -1283385706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_14
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 851
+        width: 57
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bb334a22e8521439aef597ccc9e5fa
+      internalID: 1701978726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 849
+        width: 62
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f407b66e5608654996726f0df3c2225
+      internalID: 794532248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_16
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 849
+        width: 58
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f893a962858494f9785a0e768c8886
+      internalID: 622422677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_17
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 849
+        width: 60
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be70d57934d7504891b4aacfe8fe5b2
+      internalID: -128189146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_18
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 845
+        width: 148
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202384bb7ca67eb46a67dc2452743bf9
+      internalID: 1625369654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 851
+        width: 148
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e064ebb4386ab4d906142b30793112
+      internalID: 484590262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_20
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 840
+        width: 147
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7ac7573b6c7746bb27f5ffbce3026
+      internalID: 1949784770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_21
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 851
+        width: 333
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f25399665064145b51c78e004c47f0
+      internalID: 607475524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_22
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 849
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd41509a0998fd418dd22ec3802758f
+      internalID: -1269124352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_23
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 851
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f523d3c716774f8e84af437746c4d
+      internalID: 823885535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_24
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 851
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba37d48e023024549887e4efb7eb2473
+      internalID: 1400920377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 585
+        width: 62
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588088b5d0fe5f499ebc8272c5f5f72
+      internalID: -521071831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_26
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 741
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb496ba411bf47943973fff1f35333c2
+      internalID: -282558905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_27
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 585
+        width: 59
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383230c2c460c3f4495ed3a62f53e30f
+      internalID: 1039445837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_28
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 741
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca4051d24c942438fa388a5960b069
+      internalID: -866081134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_29
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 585
+        width: 59
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc74d819d6783584ca5c54304ac133b7
+      internalID: -1481331812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_30
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 741
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5842acab987bb448dce03f93e03e93
+      internalID: -1629525577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_31
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 585
+        width: 58
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e373b11a9b9e45b265ca6fe6a5d0c
+      internalID: 1194554494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_32
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 741
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0b3ccd16f7e94399239783b164d31
+      internalID: -557052817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_33
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 585
+        width: 55
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116ebf35b6b81b44990139b512f576d
+      internalID: 377915363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_34
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 741
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609ebad8ae96f64a8ea9b8a3934434a
+      internalID: 186038610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_35
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 585
+        width: 56
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d0b2056d4fa8744b6187ea571e670a
+      internalID: -2091208474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_36
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 741
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886874bb392f0c043a2ed5c69e866700
+      internalID: -1844394619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 585
+        width: 87
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e9a12400d2656448a2ecf2d3adb8b3
+      internalID: -673837433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_38
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 585
+        width: 88
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc77854c5744c44aa5355a53ee5ad2
+      internalID: 614495927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_39
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 585
+        width: 88
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b97951d9a41f74b834aec3d3dc487d
+      internalID: -1014283651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_40
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 623
+        width: 8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a9166536cc224bba37ace95474ab5
+      internalID: 1820906183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_41
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 607
+        width: 46
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe9150608b49c4a86779cad6126535
+      internalID: 695256894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_42
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 597
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c5c5eb383bd242922f080f02cb5a8
+      internalID: -334770375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_43
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 589
+        width: 55
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b3a58ae0ac8ba4ba3a285b5a9eab91
+      internalID: 1321261385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_44
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 582
+        width: 60
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf3aa4b63d3c145b9281576781bbd8
+      internalID: 569526446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_45
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 580
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328199070d66be7459529cde65f94faa
+      internalID: 939798256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_46
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 580
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4830a246d90e2d4aa885004e2af1630
+      internalID: 1921902955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_47
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 583
+        width: 48
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34297ce3f3227db4c853151aaaf693d5
+      internalID: -759436210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_48
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 573
+        width: 132
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5918d62730b34799d38d763829708
+      internalID: -1609954466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_49
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 347
+        width: 55
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3f321c87e443a429077971b2f6b95f
+      internalID: 181307802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_50
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 474
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d3db872e3a334a9781a31793e69b7
+      internalID: -1051386331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_51
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 338
+        width: 58
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b33acb205cba4788e8768b6583b38
+      internalID: 846325452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_52
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 482
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f0350498abd4479cc0689a9a1d2f1
+      internalID: -1684788394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 364
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8545dca739d5f2e4e9479683f55acb3f
+      internalID: 430943202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_54
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 455
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908aae9a3cb4ec46aa00355aba2a6d7
+      internalID: 1162860651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_55
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 354
+        width: 51
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabb5814251b514d801b1cd1dbcf3f3
+      internalID: -934916810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_56
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17392ad07a3a5aa469f235d9aa8c6253
+      internalID: 1311515102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_57
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 448
+        width: 115
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a75a32eeec874eaf57aff072bcbb5
+      internalID: -1922924549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_58
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 374
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cceba6545997624aadb0edfef65e3b2
+      internalID: -1664559024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_59
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 439
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2818ef2019984aa9a788e3585a184
+      internalID: 2094575708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_60
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 463
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58182927efda84d80c71a3e5e47563
+      internalID: 761015658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_61
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 371
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa4dd128d34fb4da2a7864bc80be2a
+      internalID: -2136789776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_62
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 371
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e2e59e2eb219489192246b7b680f5
+      internalID: 1345691377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_63
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 373
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925ed0ecec03464ebf68f1e478e1f9c
+      internalID: 765801726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_64
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 422
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a38bbe0eaef7478d3a97caa8796a2
+      internalID: -977671611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_65
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 462
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4be2b3a7cf52488d553110a689d86
+      internalID: -245973400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_66
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 431
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaa0bfcc4f62cb45b8e73e336b0898a
+      internalID: 1915481302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_67
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 427
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f879134bf5c774c88dab402f2c2330
+      internalID: 522575711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_68
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 361
+        width: 54
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785be5a4be130b499f9109891248546
+      internalID: 89799149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_69
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 362
+        width: 21
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d3239f32c47664aba2bb2a7ca61b2f
+      internalID: -1650480101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_70
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 364
+        width: 9
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c35c4dd1563c4f81a9a5595dff76f
+      internalID: -494965009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_71
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 361
+        width: 8
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f46820cb9d86eb4aa3dde3c6bd4c7f6
+      internalID: -1195532728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_72
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 361
+        width: 20
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bae1e691e47991499403e3f7aa9d2bb
+      internalID: -792546984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_73
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 427
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe977a10f687c1c41948a8a8399dc815
+      internalID: -730921606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_74
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 438
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d0381d83b4f0408f9ae9c1d7a6697
+      internalID: -2039033784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_75
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 388
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8bf343d73ca24888e522838d5b6b8
+      internalID: 1071390521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_76
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 388
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c2b48abe7cee54cb8b13df79b67e98
+      internalID: 1185635913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_77
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 371
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7b39e42b2d5f4448675f93f6089982
+      internalID: 337648969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_78
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 426
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045068899455694f8615bd3444a6ea2
+      internalID: -1442005935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_79
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 427
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a35551ad6a5346ab3c3e19a76760f
+      internalID: 877629520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_80
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 426
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0d9fce2cd03a409aeee882778b7e9
+      internalID: 494532392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_81
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 419
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb514be667c614eaf3984087cf71ae
+      internalID: 1212889331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_82
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2622eba24aeca40a1176e6335151b4
+      internalID: 1849466704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_83
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 395
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb937b131af8fd43a548eb9c3d9fbfa
+      internalID: -1700179323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_84
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 359
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220d3eb96bca07b43884591c7377d9e2
+      internalID: 1468951844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_85
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 361
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46315d48fbb06d448b59520fc7bd0b26
+      internalID: -812395945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_86
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c36a9de9b53e14c8a5e4ad66d1c995
+      internalID: -1770085747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_87
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 397
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e49cd7ce57634694332514bba6f61
+      internalID: -1163862017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_88
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 395
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194280c50f01d094b89f65d1354daccb
+      internalID: 960008713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_89
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 371
+        width: 115
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0866092e0505324892b9e3a6b75a9e9
+      internalID: -1258331097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_90
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 369
+        width: 81
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c0ddcf720d1e44bb45a164f4924e2
+      internalID: -677694321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_91
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 355
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab2782f8edb094297cc7c03a1ee2ef
+      internalID: -1772000822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimbolosMusica_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 3298
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76d536cf2927d43a5a5c40c7623bb2
+      internalID: 1035595420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SimbolosMusica_0: -1508592244
+      SimbolosMusica_1: -596876232
+      SimbolosMusica_10: -830800083
+      SimbolosMusica_11: 500528775
+      SimbolosMusica_12: 1315596203
+      SimbolosMusica_13: -1283385706
+      SimbolosMusica_14: 1701978726
+      SimbolosMusica_15: 794532248
+      SimbolosMusica_16: 622422677
+      SimbolosMusica_17: -128189146
+      SimbolosMusica_18: 1625369654
+      SimbolosMusica_19: 484590262
+      SimbolosMusica_2: 637465494
+      SimbolosMusica_20: 1949784770
+      SimbolosMusica_21: 607475524
+      SimbolosMusica_22: -1269124352
+      SimbolosMusica_23: 823885535
+      SimbolosMusica_24: 1400920377
+      SimbolosMusica_25: -521071831
+      SimbolosMusica_26: -282558905
+      SimbolosMusica_27: 1039445837
+      SimbolosMusica_28: -866081134
+      SimbolosMusica_29: -1481331812
+      SimbolosMusica_3: 1027464302
+      SimbolosMusica_30: -1629525577
+      SimbolosMusica_31: 1194554494
+      SimbolosMusica_32: -557052817
+      SimbolosMusica_33: 377915363
+      SimbolosMusica_34: 186038610
+      SimbolosMusica_35: -2091208474
+      SimbolosMusica_36: -1844394619
+      SimbolosMusica_37: -673837433
+      SimbolosMusica_38: 614495927
+      SimbolosMusica_39: -1014283651
+      SimbolosMusica_4: -1763202975
+      SimbolosMusica_40: 1820906183
+      SimbolosMusica_41: 695256894
+      SimbolosMusica_42: -334770375
+      SimbolosMusica_43: 1321261385
+      SimbolosMusica_44: 569526446
+      SimbolosMusica_45: 939798256
+      SimbolosMusica_46: 1921902955
+      SimbolosMusica_47: -759436210
+      SimbolosMusica_48: -1609954466
+      SimbolosMusica_49: 181307802
+      SimbolosMusica_5: 1970807924
+      SimbolosMusica_50: -1051386331
+      SimbolosMusica_51: 846325452
+      SimbolosMusica_52: -1684788394
+      SimbolosMusica_53: 430943202
+      SimbolosMusica_54: 1162860651
+      SimbolosMusica_55: -934916810
+      SimbolosMusica_56: 1311515102
+      SimbolosMusica_57: -1922924549
+      SimbolosMusica_58: -1664559024
+      SimbolosMusica_59: 2094575708
+      SimbolosMusica_6: -459638895
+      SimbolosMusica_60: 761015658
+      SimbolosMusica_61: -2136789776
+      SimbolosMusica_62: 1345691377
+      SimbolosMusica_63: 765801726
+      SimbolosMusica_64: -977671611
+      SimbolosMusica_65: -245973400
+      SimbolosMusica_66: 1915481302
+      SimbolosMusica_67: 522575711
+      SimbolosMusica_68: 89799149
+      SimbolosMusica_69: -1650480101
+      SimbolosMusica_7: -1004646653
+      SimbolosMusica_70: -494965009
+      SimbolosMusica_71: -1195532728
+      SimbolosMusica_72: -792546984
+      SimbolosMusica_73: -730921606
+      SimbolosMusica_74: -2039033784
+      SimbolosMusica_75: 1071390521
+      SimbolosMusica_76: 1185635913
+      SimbolosMusica_77: 337648969
+      SimbolosMusica_78: -1442005935
+      SimbolosMusica_79: 877629520
+      SimbolosMusica_8: 1731533440
+      SimbolosMusica_80: 494532392
+      SimbolosMusica_81: 1212889331
+      SimbolosMusica_82: 1849466704
+      SimbolosMusica_83: -1700179323
+      SimbolosMusica_84: 1468951844
+      SimbolosMusica_85: -812395945
+      SimbolosMusica_86: -1770085747
+      SimbolosMusica_87: -1163862017
+      SimbolosMusica_88: 960008713
+      SimbolosMusica_89: -1258331097
+      SimbolosMusica_9: -1795287173
+      SimbolosMusica_90: -677694321
+      SimbolosMusica_91: -1772000822
+      SimbolosMusica_92: 1035595420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
